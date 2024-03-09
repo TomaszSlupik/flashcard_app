@@ -1,0 +1,27 @@
+[
+    {
+        "english": " finished my work today",
+        "polish": "Skończyłem dzisiaj pracę",
+        "image": "/img/firstLesson/work.jpg"
+    },
+    {
+        "english": "beer", 
+        "polish": "piwo",
+        "image": "/img/firstLesson/beer.jpg"
+    },
+    {
+        "english": "remotely", 
+        "polish": "zdalnie",
+        "image": "/img/firstLesson/remotely.jpg"
+    },
+    {
+        "english": "How are you doing?", 
+        "polish": "Jak się masz?",
+        "image": "/img/firstLesson/howareyou.png"
+    },
+    {
+        "english": "How is your attitude toward today's activities?", 
+        "polish": "Jakie jest twoje nastawienie do dzisiejszych zajęć?",
+        "image": "/img/firstLesson/good.jpg"
+    }
+]
